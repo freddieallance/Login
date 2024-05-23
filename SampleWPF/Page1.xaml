@@ -1,0 +1,29 @@
+﻿<Page x:Class="SampleWPF.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SampleWPF"
+      mc:Ignorable="d" 
+      Title="Page1" Height="300" Width="400" Background="White">
+    <Grid x:Name="Page1Grid" Opacity="100">
+
+        <StackPanel x:Name="StaffDetailPanel" Margin="0,20,0,0">
+            <DataGrid  x:Name="dataGrid1" AutoGenerateColumns="false" CanUserAddRows="false" Margin="20,10,20,9">
+                <DataGrid.Columns>
+                    <DataGridTextColumn x:Name="idColumn" Header="ID" Width="*" Binding ="{Binding staff_id}" />
+                    <DataGridTextColumn x:Name="nameColumn" Header="Name" Width="*" Binding ="{Binding name}"/>
+                    <DataGridTextColumn x:Name="divColumn" Header="Division" Width="*" Binding="{Binding division}"/>
+                    
+                    <DataGridTemplateColumn Width="*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Name="callAPIButton" Click="callApi" Content="Guess Gender"></Button>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Page>
