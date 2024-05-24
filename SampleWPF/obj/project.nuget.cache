@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5ocnuhUOqRxHGicFtMkJ88D47igwRE+UjOhi8/VBMK+w090VH05ZlVr0ZLD7ZD+FJJVk14iasqDNKlBFT2ibg==",
+  "dgSpecHash": "ONoTDyZrEW8ohPsdifkEagKoN7VD/ELw7FoZOEbas9FN0orOZ6qcKV/nc4ltQNojl2iSWZGbIMlwLIr2sOqc2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\SampleWPF.csproj",
+  "projectFilePath": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\SampleWPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Freddie Allance\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Freddie Allance\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

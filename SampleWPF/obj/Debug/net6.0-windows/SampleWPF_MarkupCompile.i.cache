@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Freddie Allance\source\repos\SampleWPF1\SampleWPF\obj\Debug\net6.0-windows\
+C:\Users\Freddie Allance\source\repos\Login\SampleWPF\obj\Debug\net6.0-windows\
 SampleWPF
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Freddie Allance\source\repos\SampleWPF1\SampleWPF\App.xaml
-21586367847
+C:\Users\Freddie Allance\source\repos\Login\SampleWPF\App.xaml
+4-333478862
 
-91228598850
-218-745056028
-MainWindow.xaml;Page1.xaml;
+18-266954456
+2271623227365
+MainWindow.xaml;Page1.xaml;View\MainEntry.xaml;View\SideEntry.xaml;
 
 True
 

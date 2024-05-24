@@ -17,6 +17,7 @@ using System.Windows.Shapes;
 using MySql.Data;
 using System.Configuration;
 using MySql.Data.MySqlClient;
+using SampleWPF.View;
 
 namespace SampleWPF
 {
@@ -59,12 +60,14 @@ namespace SampleWPF
                 //if(savetoMySqlDB(staffID, staffName, staffDivision))
                 if (savetoMySqlDB(userID))
                 {
-                        MessageBox.Show("User successfully login!");
-                        NavigationFrame.Content = new Page1();
+                    MessageBox.Show("User successfully login!");
+                    MainEntry newWindow = new MainEntry();
+                    newWindow.Show();
+                    this.Close();
                 }
                 else
                 {
-                        MessageBox.Show("Failed to login!");
+                    MessageBox.Show("Failed to login!");
 
                 }/*
                 }
@@ -124,7 +127,7 @@ namespace SampleWPF
         public bool savetoMySqlDB(string sid)
         {
             bool saved = false;
-            
+
             try
             {
                 /*MessageBox.Show("In try");
@@ -166,14 +169,17 @@ namespace SampleWPF
 
                         myReader = mycommand.ExecuteReader();
 
-                        if (myReader.Read()) {
+                        if (myReader.Read())
+                        {
                             userIDTxtBox.Text = myReader["userpassword"].ToString();
+                            saved = true;
                         }
                         else
                         {
                             userIDTxtBox.Text = "";
                             passwordTxtBox.Text = "";
                             MessageBox.Show("No data found!");
+                            saved = false;
                         }
 
                         myReader.Close();
@@ -182,9 +188,9 @@ namespace SampleWPF
 
                 }
 
-                saved = true;
+                //saved = true;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
                 saved = false;

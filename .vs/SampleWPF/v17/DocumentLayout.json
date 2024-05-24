@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\",
+  "WorkspaceRootPath": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|c:\\users\\freddie allance\\source\\repos\\samplewpf1\\samplewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\samplewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\Login\\samplewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\samplewpf\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\Login\\samplewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\samplewpf\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\Login\\samplewpf\\view\\mainentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\view\\mainentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|c:\\users\\freddie allance\\source\\repos\\login\\samplewpf\\view\\mainentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\view\\mainentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\Login\\samplewpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\Login\\samplewpf\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\samplewpf\\apidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\apidata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\Login\\samplewpf\\view\\sideentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\view\\sideentry.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\samplewpf\\datagriditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\datagriditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|C:\\Users\\Freddie Allance\\source\\repos\\Login\\samplewpf\\view\\sideentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9A9DAEAE-3E8B-4EA3-B643-8C59586CB032}|SampleWPF\\SampleWPF.csproj|solutionrelative:samplewpf\\view\\sideentry.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,76 +62,99 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainEntry.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\MainEntry.xaml.cs",
+              "RelativeDocumentMoniker": "SampleWPF\\View\\MainEntry.xaml.cs",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\MainEntry.xaml.cs",
+              "RelativeToolTip": "SampleWPF\\View\\MainEntry.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:25:31.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "SampleWPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\MainWindow.xaml",
-              "RelativeToolTip": "SampleWPF\\MainWindow.xaml",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SampleWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SampleWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:04:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\Page1.xaml",
+              "RelativeDocumentMoniker": "SampleWPF\\Page1.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\Page1.xaml",
+              "RelativeToolTip": "SampleWPF\\Page1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T07:23:12.286Z",
+              "WhenOpened": "2024-05-23T07:03:48.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SideEntry.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\SideEntry.xaml.cs",
+              "RelativeDocumentMoniker": "SampleWPF\\View\\SideEntry.xaml.cs",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\SideEntry.xaml.cs",
+              "RelativeToolTip": "SampleWPF\\View\\SideEntry.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:02:45.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SideEntry.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\SideEntry.xaml",
+              "RelativeDocumentMoniker": "SampleWPF\\View\\SideEntry.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\SideEntry.xaml",
+              "RelativeToolTip": "SampleWPF\\View\\SideEntry.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T07:02:28.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainEntry.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\MainEntry.xaml",
+              "RelativeDocumentMoniker": "SampleWPF\\View\\MainEntry.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\View\\MainEntry.xaml",
+              "RelativeToolTip": "SampleWPF\\View\\MainEntry.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T07:02:24.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "APIData.cs",
-              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\APIData.cs",
-              "RelativeDocumentMoniker": "SampleWPF\\APIData.cs",
-              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\APIData.cs",
-              "RelativeToolTip": "SampleWPF\\APIData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T02:03:48.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DataGridItem.cs",
-              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\DataGridItem.cs",
-              "RelativeDocumentMoniker": "SampleWPF\\DataGridItem.cs",
-              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\DataGridItem.cs",
-              "RelativeToolTip": "SampleWPF\\DataGridItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T02:03:48.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\Page1.xaml.cs",
-              "RelativeDocumentMoniker": "SampleWPF\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\Page1.xaml.cs",
-              "RelativeToolTip": "SampleWPF\\Page1.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAiwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T02:03:48.891Z",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\App.xaml",
+              "RelativeDocumentMoniker": "SampleWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\App.xaml",
+              "RelativeToolTip": "SampleWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T07:02:15.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "SampleWPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "SampleWPF\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAuwD4AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T02:03:48.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\Page1.xaml",
-              "RelativeDocumentMoniker": "SampleWPF\\Page1.xaml",
-              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\Page1.xaml",
-              "RelativeToolTip": "SampleWPF\\Page1.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SampleWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\MainWindow.xaml",
+              "RelativeToolTip": "SampleWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-13T02:03:48.898Z"
+              "WhenOpened": "2024-05-23T07:02:11.755Z",
+              "EditorCaption": ""
             }
           ]
         }

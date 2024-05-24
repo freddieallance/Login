@@ -1928,11 +1928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\SampleWPF.csproj",
+      "projectUniqueName": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\SampleWPF.csproj",
       "projectName": "SampleWPF",
-      "projectPath": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\SampleWPF.csproj",
+      "projectPath": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\SampleWPF.csproj",
       "packagesPath": "C:\\Users\\Freddie Allance\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Freddie Allance\\source\\repos\\SampleWPF1\\SampleWPF\\obj\\",
+      "outputPath": "C:\\Users\\Freddie Allance\\source\\repos\\Login\\SampleWPF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Freddie Allance\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2018,7 +2018,7 @@
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           },
-          "Microsoft.WindowsDesktop.App.WPF": {
+          "Microsoft.WindowsDesktop.App": {
             "privateAssets": "none"
           }
         },
